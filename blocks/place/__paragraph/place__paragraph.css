@@ -1,7 +1,7 @@
 .place__paragraph{
 
   max-width: 484px;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -36,9 +36,3 @@
   }
 }
 
-@media screen and (max-width: 1023px){
-  .place__paragraph{
-    max-width: 288px;
-  
-  }
-}
